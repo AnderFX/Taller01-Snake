@@ -1,4 +1,4 @@
-package com.espol.taller01.snake;
+FCOpackage com.espol.taller01.snake;
 
 import java.awt.Color;
 import java.awt.Dimension;
